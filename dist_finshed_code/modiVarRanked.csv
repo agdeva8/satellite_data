@@ -1,0 +1,16 @@
+ranks,modi_var
+1,Urban and built-up
+2,Croplands
+3,Cropland/Natural vegetation mosaic
+4,Natural
+5,grass_shrubs
+6,forest
+7,mod_Cropland/Natural vegetation mosaic
+8,mod_Croplands
+9,mod_grass_shrubs
+10,CropRatio
+11,UrbanRatio
+12,UrbanRemainRatio
+13,mod_forest
+14,CropRemainRatio
+15,mod_Urban and built-up
